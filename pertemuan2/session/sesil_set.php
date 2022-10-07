@@ -15,7 +15,7 @@ $_SESSION['absen'] = 33;
 </head>
 <body>
     <?php 
-    echo "nama saya".$_SESSION['nama']."<br>"."Nomor absen".$_SESSION['absen'];
+    echo "nama saya     :".$_SESSION['nama']."<br>"."Nomor absen    :".$_SESSION['absen'];
     ?>
 </body>
 </html>

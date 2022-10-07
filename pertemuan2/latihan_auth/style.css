@@ -1,0 +1,26 @@
+html,
+body {
+    background:"login.webp";
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+            height: 100%;
+} 
+
+.global-container{
+    padding: 0 40px;
+    height: 1005;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    color: rgb(38, 251, 5);
+   
+}
+
+.login-form {
+    width: 400px;
+    height: 380px;
+    padding: 100px;
+    bottom: 100px;
+}

@@ -16,7 +16,7 @@ session_start();
 <body>
     <?php
 
-    $_SESSION['nama']="yusuf fathurrohman";
+    $_SESSION['nama']="yusuf";
 
     echo "Variable session nama telah diubah menjadi ".$_SESSION['nama'];
 
